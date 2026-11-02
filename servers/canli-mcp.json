@@ -1,0 +1,9 @@
+{
+  "name": "canli-mcp",
+  "url": "https://github.com/arhancanli/canli-mcp",
+  "category": "finance",
+  "transport": "http",
+  "description": "SEC filings, statements as filed, market data, economic statistics, quant tools and backtest checks from the sources, behind five tools. Free, no API key; also runs locally with `npx -y canli-mcp`. Endpoint: `https://canlicapital.com/mcp/canli`",
+  "endpoint": "https://canlicapital.com/mcp/canli",
+  "registry": "io.github.arhancanli/canli-mcp"
+}
